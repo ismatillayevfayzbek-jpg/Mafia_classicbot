@@ -1,0 +1,1 @@
+print("Mafia bot tayyorlanmoqda!")
